@@ -1,11 +1,9 @@
+Candidates_Details-
+
 Name: Avanish Dubey
-village - Dubauli
-post_office - orrah
-police_satation -Belaon
-
-distt - kaimur
-block - bhagwanpur
-----------------------
-
-above information are associated to this file author.
+Height - 6F
+Weight - 83 kg
+clour - light brown
+language - Hinglish
+---------------------
 
